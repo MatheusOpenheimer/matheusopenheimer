@@ -1,6 +1,10 @@
-Me chamo Matheus Henrique Openheimer Souza, tenho 18 anos e sou de Minas Gerais. Sou técnico em informática e atualmente curso Sistemas de Informação. Tenho experiência com suporte técnico, manutenção de computadores e redes.
+# 👨🏻‍💻 Matheus Henrique Openheimer Souza
 
+**`Desenvolvedor FullStack | Técnico em informática`**
+
+Me chamo Matheus Henrique Openheimer Souza, tenho 18 anos e sou de Minas Gerais. Sou técnico em informática e atualmente curso Sistemas de Informação. Tenho experiência com suporte técnico, manutenção de computadores e redes.
 Atualmente estou focado em evoluir como desenvolvedor, criando projetos práticos e aprimorando minhas habilidades em desenvolvimento web e back-end.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
